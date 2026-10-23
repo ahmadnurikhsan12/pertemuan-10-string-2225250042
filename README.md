@@ -55,5 +55,4 @@ Saya mempelajari cara menggunakan method string untuk membersihkan dan menyeraga
 ## Bantuan dan Referensi
 
 - Modul Algoritma dan Pemrograman Pertemuan 10.
-- Dokumentasi Python: https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 
